@@ -1,6 +1,6 @@
 ### Hi There
 
-My name is Jonathan Gan. I am a Fullstack Engineer, If you find something useful please leave a star ⭐
+My name is Brandon Larkin. I am a Fullstack Engineer, If you find something useful please leave a star ⭐
 
 Interests:
 - Mobile Development
